@@ -1,26 +1,35 @@
 # Horiseon-code-refactor
 
-Code repository:
-Deployed application:
+### Code repository: 
+https://github.com/Jakinlade/horiseon-code-refactor 
+
+### Deployed application: 
+https://jakinlade.github.io/horiseon-code-refactor/
+
+<br>
 
 ## Description
 
-This is a refactor of the Horiseon website to make the codebase follow accessibility standards.
-The new improved code is now also better for Search engine optimization.
+For this project, I was provided with existing HTML and CSS code for a digital marketing companies website. However, the codebase didn't meet current accessibility standards and had poor search engine optimisation.
 
-Semantic HTML has been applied throughout the code and all image and icons have been given alt tags.
+In refactoring the codebase, I made the following changes:
+- Added semantic HMTL elements where appropriate.
+- Reorganised the code to give it a more logical overall structure, such as ensuring heading attributes are in a sequential order.
+- Changed the title element to be clear and concise.
+- added accessible alt attributes for image and icon elements.
+
+<br>
+
+## Website Screenshot
+
+![screenshot of website](./assets/images/screencapture-file-C-Users-compa-bootcamp-horiseon-code-refactor-index-html-2022-11-22-19_46_11.png)
+
+<br>
+
+## Code Examples
 
 
-
-
-## screenshot
-
-![screenshot of website](./assets/images/screencapture-file-C-Users-compa-bootcamp-horiseon-code-refactor-index-html-2022-11-19-14_32_37%20(1).png)
-
-## Examples
-
-
-Adjusted html to include semantic tags in the header and nav.
+- Adjusted HTML to include semantic tags in the header and nav.
 ```html
  <header>
         <h1>Hori<span class="seo">seo</span>n</h1>
@@ -40,7 +49,7 @@ Adjusted html to include semantic tags in the header and nav.
     </header>
 ```
 
-Consolidated css tags to reduce repetition in the code.
+- Consolidated CSS tags to reduce repetition in the code.
 ```css
 .services {
     margin-bottom: 20px;
@@ -60,12 +69,17 @@ Consolidated css tags to reduce repetition in the code.
     font-size: 36px;
 }
 ```
+<br> 
 
 ## Technologies used
 
 ![HTML badge](https://img.shields.io/badge/Language-HTML-green)
+
 ![CSS badge](https://img.shields.io/badge/Language-CSS-blue)
-## license
+
+<br>
+
+## License
 
 MIT License
 
