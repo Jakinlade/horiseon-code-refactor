@@ -1,10 +1,10 @@
 # Horiseon-code-refactor
 
 ### Code repository: 
-https://github.com/Jakinlade/horiseon-code-refactor 
+https://github.com/Jakinlade/horiseon-media-site-dry-code-refactor
 
 ### Deployed application: 
-https://jakinlade.github.io/horiseon-code-refactor/
+https://jakinlade.github.io/horiseon-media-site-dry-code-refactor/
 
 <br>
 
