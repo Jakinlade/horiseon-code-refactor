@@ -83,7 +83,7 @@ In refactoring the codebase, I made the following changes:
 
 MIT License
 
-Copyright (c) 2022 Jakinlade
+Copyright (c) 2022 Jonathan Johnson
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
